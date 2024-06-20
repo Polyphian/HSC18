@@ -1,0 +1,198 @@
+{
+    "Device": {
+        "iPhone 11": {
+            "Short": "11",
+            "Group": "XR",
+            "Height": 1792,
+            "Width": 828
+        },
+        "iPhone 11 Pro": {
+            "Short": "X",
+            "Group": "X",
+            "Height": 2436,
+            "Width": 1125
+        },
+        "iPhone 11 Pro Max": {
+            "Short": "XSM",
+            "Group": "XSM",
+            "Height": 2688,
+            "Width": 1242
+        },
+        "iPhone 12": {
+            "Short": "12",
+            "Group": "13",
+            "Height": 2532,
+            "Width": 1170
+        },
+        "iPhone 12 Pro": {
+            "Short": "12P",
+            "Group": "13",
+            "Height": 2532,
+            "Width": 1170
+        },
+        "iPhone 12 Pro Max": {
+            "Short": "12PM",
+            "Group": "13PM",
+            "Height": 2778,
+            "Width": 1284
+        },
+        "iPhone 12 mini": {
+            "Short": "12m",
+            "Group": "13m",
+            "Height": 2436,
+            "Width": 1125
+        },
+        "iPhone 13": {
+            "Short": "13",
+            "Group": "13",
+            "Height": 2532,
+            "Width": 1170
+        },
+        "iPhone 13 Pro": {
+            "Short": "13P",
+            "Group": "13",
+            "Height": 2532,
+            "Width": 1170
+        },
+        "iPhone 13 Pro Max": {
+            "Short": "13PM",
+            "Group": "13PM",
+            "Height": 2778,
+            "Width": 1284
+        },
+        "iPhone 13 mini": {
+            "Short": "12m",
+            "Group": "13m",
+            "Height": 2436,
+            "Width": 1125
+        },
+        "iPhone 14": {
+            "Short": "14",
+            "Group": "13",
+            "Height": 2532,
+            "Width": 1170
+        },
+        "iPhone 15": {
+            "Short": "14",
+            "Group": "13",
+            "Height": 2532,
+            "Width": 1170
+        },
+        "iPhone 14 Plus": {
+            "Short": "14PM",
+            "Group": "13PM",
+            "Height": 2778,
+            "Width": 1284
+        },
+        "iPhone 15 Plus": {
+            "Short": "14PM",
+            "Group": "13PM",
+            "Height": 2778,
+            "Width": 1284
+        },
+        "iPhone 14 Pro": {
+            "Short": "14P",
+            "Group": "14P",
+            "Height": 2556,
+            "Width": 1179
+        },
+        "iPhone 15 Pro": {
+            "Short": "14P",
+            "Group": "14P",
+            "Height": 2556,
+            "Width": 1179
+        },
+        "iPhone 14 Pro Max": {
+            "Short": "14PM",
+            "Group": "14PM",
+            "Height": 2796,
+            "Width": 1290
+        },
+        "iPhone 15 Pro Max": {
+            "Short": "14PM",
+            "Group": "14PM",
+            "Height": 2796,
+            "Width": 1290
+        },
+        "iPhone 6s": {
+            "Height": 1334,
+            "Width": 750
+        },
+        "iPhone 6s Plus": {
+            "Height": 2208,
+            "Width": 1242
+        },
+        "iPhone 7": {
+            "Height": 1334,
+            "Width": 750
+        },
+        "iPhone 7 Plus": {
+            "Height": 2208,
+            "Width": 1242
+        },
+        "iPhone 8": {
+            "Short": "SE",
+            "Group": "SE",
+            "Height": 1334,
+            "Width": 750
+        },
+        "iPhone 8 Plus": {
+            "Height": 2208,
+            "Width": 1242
+        },
+        "iPhone SE (1st generation)": {
+            "Short": "SE",
+            "Group": "SE",
+            "Height": 1334,
+            "Width": 750
+        },
+        "iPhone SE (2nd generation)": {
+            "Short": "SE",
+            "Group": "SE",
+            "Height": 1334,
+            "Width": 750
+        },
+        "iPhone SE (3rd generation)": {
+            "Short": "SE",
+            "Group": "SE",
+            "Height": 1334,
+            "Width": 750
+        },
+        "iPhone X": {
+            "Short": "X",
+            "Group": "X",
+            "Height": 2436,
+            "Width": 1125
+        },
+        "iPhone XR": {
+            "Short": "XR",
+            "Group": "XR",
+            "Height": 1792,
+            "Width": 828
+        },
+        "iPhone XS": {
+            "Short": "X",
+            "Group": "X",
+            "Height": 2436,
+            "Width": 1125
+        },
+        "iPhone XS Max": {
+            "Short": "XSM",
+            "Group": "XSM",
+            "Height": 2688,
+            "Width": 1242
+        },
+        "iPod Touch (7th generation)": {
+            "Short": "SE",
+            "Group": "SE",
+            "Height": 1334,
+            "Width": 750
+        },
+        "iPod touch": {
+            "Short": "SE",
+            "Group": "SE",
+            "Height": 1334,
+            "Width": 750
+        }
+    }
+}
